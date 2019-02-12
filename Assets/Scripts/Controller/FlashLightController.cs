@@ -1,5 +1,4 @@
-﻿using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 
 namespace Geekbrains
 {
@@ -7,10 +6,9 @@ namespace Geekbrains
 	{
 		private FlashLightModel _flashLight;
 		private FlashLightUiText _flashLightUi;
-		
+
 		public FlashLightController()
 		{
-			
 			_flashLight = MonoBehaviour.FindObjectOfType<FlashLightModel>();
 			_flashLightUi = MonoBehaviour.FindObjectOfType<FlashLightUiText>();
 			Off();
@@ -25,7 +23,6 @@ namespace Geekbrains
 			if (_flashLight.EditBatteryCharge())
 			{
 				_flashLightUi.Text = _flashLight.BatteryChargeCurrent;
-				
 			}
 			else
 			{
@@ -36,11 +33,9 @@ namespace Geekbrains
 		public override void On()
 		{
 			if (IsActive)return;
-			
-				
 			base.On();
 			_flashLight.Switch(true);
-			//_flashLightUi.SetActive(true);
+			_flashLightUi.SetActive(true);
 		}
 
 		public sealed override void Off()
@@ -48,9 +43,7 @@ namespace Geekbrains
 			if (!IsActive) return;
 			base.Off();
 			_flashLight.Switch(false);
-			//_flashLightUi.SetActive(false);
+			_flashLightUi.SetActive(false);
 		}
-
-		
 	}
 }
