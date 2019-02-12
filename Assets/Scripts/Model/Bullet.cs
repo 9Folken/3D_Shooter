@@ -1,4 +1,4 @@
-﻿ namespace Geekbrains
+﻿namespace Geekbrains
 {
 	public sealed class Bullet : Ammunition
 	{
