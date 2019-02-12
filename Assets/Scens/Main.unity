@@ -137,11 +137,14 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 61638538}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -11.67, y: 8.7, z: -5.01}
 =======
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
@@ -153,6 +156,9 @@ Transform:
   m_LocalPosition: {x: 0, y: 1.75, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -176,6 +182,9 @@ AudioListener:
   m_GameObject: {fileID: 398322228}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -186,6 +195,7 @@ AudioListener:
 Camera:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -260,6 +270,13 @@ MeshFilter:
   m_Enabled: 1
   serializedVersion: 2
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 398322228}
+  m_Enabled: 1
+  serializedVersion: 2
+>>>>>>> parent of bd610c9... Lesson_2_init
   m_ClearFlags: 2
   m_BackGroundColor: {r: 0, g: 0, b: 0, a: 0}
   m_projectionMatrixMode: 1
@@ -296,6 +313,9 @@ MeshFilter:
 --- !u!1 &534263844
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -324,6 +344,7 @@ Transform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 103012812}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -333,11 +354,14 @@ Transform:
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534263844}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 7.501135, y: 2.99, z: 1.8535576}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -399,6 +423,17 @@ Light:
 Light:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+=======
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 3
+  m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+--- !u!108 &534263846
+Light:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+>>>>>>> parent of bd610c9... Lesson_2_init
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534263844}
@@ -441,6 +476,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 534263844}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Enabled: 1
   serializedVersion: 8
@@ -534,6 +570,8 @@ MonoBehaviour:
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6d33f2d59a321434eb2fe4b6a8ccb070, type: 3}
@@ -545,7 +583,10 @@ MonoBehaviour:
 GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
   m_ObjectHideFlags: 0
@@ -573,6 +614,7 @@ BoxCollider:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   serializedVersion: 6
@@ -599,6 +641,9 @@ BoxCollider:
 =======
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 700217849}
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
   m_GameObject: {fileID: 700217849}
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
@@ -626,6 +671,9 @@ MeshRenderer:
   m_GameObject: {fileID: 700217849}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -641,8 +689,11 @@ MeshRenderer:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_RenderingLayerMask: 1
 =======
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
@@ -684,6 +735,9 @@ MeshFilter:
   m_GameObject: {fileID: 700217849}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -708,7 +762,10 @@ Transform:
 Rigidbody:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
   m_ObjectHideFlags: 0
@@ -761,6 +818,7 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &299250958
 Transform:
   m_ObjectHideFlags: 0
@@ -786,6 +844,8 @@ Light:
 =======
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 --- !u!108 &1081619319
 Light:
   m_ObjectHideFlags: 0
@@ -795,6 +855,9 @@ Light:
   m_GameObject: {fileID: 1081619318}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -835,6 +898,7 @@ Light:
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -941,6 +1005,8 @@ Transform:
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1081619318}
@@ -948,6 +1014,9 @@ Transform:
   m_LocalPosition: {x: 0, y: 3, z: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -957,6 +1026,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1011,6 +1081,10 @@ Light:
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!1 &1208226808
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+  m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &1208226808
+>>>>>>> parent of bd610c9... Lesson_2_init
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1035,10 +1109,13 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 518614686}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
 =======
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
@@ -1049,6 +1126,9 @@ RectTransform:
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1078,6 +1158,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1208226808}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1101,6 +1184,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1208226808}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1146,6 +1232,9 @@ CanvasRenderer:
   m_GameObject: {fileID: 1208226808}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1168,6 +1257,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1198,6 +1288,8 @@ CharacterController:
 --- !u!143 &1642954991
 CharacterController:
 =======
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 --- !u!143 &1642954991
 CharacterController:
   m_ObjectHideFlags: 0
@@ -1219,12 +1311,16 @@ CharacterController:
 --- !u!4 &1642954994
 Transform:
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1642954989}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Material: {fileID: 0}
   m_IsTrigger: 0
@@ -1262,6 +1358,18 @@ Transform:
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
+=======
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.501135, y: 1.24, z: 1.8535576}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 398322229}
+  m_Father: {fileID: 0}
+  m_RootOrder: 4
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1678688011
+GameObject:
+>>>>>>> parent of bd610c9... Lesson_2_init
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -1307,6 +1415,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 594580400}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -1338,11 +1447,17 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1678688011}
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1678688011}
+>>>>>>> parent of bd610c9... Lesson_2_init
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1482,6 +1597,34 @@ Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+  m_HorizontalAxis: Horizontal
+  m_VerticalAxis: Vertical
+  m_SubmitButton: Submit
+  m_CancelButton: Cancel
+  m_InputActionsPerSecond: 10
+  m_RepeatDelay: 0.5
+  m_ForceModuleActive: 0
+--- !u!114 &1678688013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1678688011}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_FirstSelected: {fileID: 0}
+  m_sendNavigationEvents: 1
+  m_DragThreshold: 10
+--- !u!4 &1678688014
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+>>>>>>> parent of bd610c9... Lesson_2_init
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1678688011}
@@ -1539,6 +1682,9 @@ BoxCollider:
   m_GameObject: {fileID: 1690621475}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1563,6 +1709,9 @@ MeshRenderer:
   m_GameObject: {fileID: 1690621475}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1610,6 +1759,9 @@ MeshFilter:
   m_GameObject: {fileID: 1690621475}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1629,6 +1781,9 @@ Transform:
   m_GameObject: {fileID: 1690621475}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1641,6 +1796,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1660,6 +1816,9 @@ Rigidbody:
   m_Constraints: 0
   m_CollisionDetection: 0
 --- !u!1 &788538877
+=======
+--- !u!1 &1777560334
+>>>>>>> parent of bd610c9... Lesson_2_init
 =======
 --- !u!1 &1777560334
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1689,6 +1848,7 @@ GameObject:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &788538878
 Transform:
   m_ObjectHideFlags: 0
@@ -1715,6 +1875,8 @@ MonoBehaviour:
 =======
 --- !u!114 &1777560335
 =======
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 --- !u!114 &1777560335
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1734,6 +1896,9 @@ MonoBehaviour:
     m_Bits: 4294967295
 --- !u!114 &1777560336
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1743,6 +1908,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1777560334}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1792,6 +1958,8 @@ Canvas:
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
@@ -1811,6 +1979,7 @@ Canvas:
 Canvas:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_PrefabInternal: {fileID: 0}
@@ -1855,6 +2024,12 @@ Canvas:
   m_GameObject: {fileID: 1777560334}
   m_Enabled: 1
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1777560334}
+  m_Enabled: 1
+>>>>>>> parent of bd610c9... Lesson_2_init
   serializedVersion: 3
   m_RenderMode: 0
   m_Camera: {fileID: 0}
@@ -1867,6 +2042,9 @@ Canvas:
   m_AdditionalShaderChannelsFlag: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1882,11 +2060,14 @@ RectTransform:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 788538877}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
 --- !u!1 &950848587
 =======
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
@@ -1911,6 +2092,9 @@ RectTransform:
 --- !u!1 &1797670850
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1931,6 +2115,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1960,6 +2145,8 @@ MonoBehaviour:
 =======
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 --- !u!114 &1797670851
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1969,6 +2156,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 1797670850}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of bd610c9... Lesson_2_init
+=======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
@@ -1983,6 +2173,7 @@ MonoBehaviour:
 Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2922,10 +3113,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1797670850}
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1797670850}
+>>>>>>> parent of bd610c9... Lesson_2_init
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 7.501135, y: 1.24, z: 1.8535576}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3083,6 +3280,11 @@ MeshFilter:
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of bd610c9... Lesson_2_init
+=======
+  m_Father: {fileID: 0}
+  m_RootOrder: 5
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+>>>>>>> parent of bd610c9... Lesson_2_init
 --- !u!1 &2111875649
 GameObject:
   m_ObjectHideFlags: 0
@@ -3152,6 +3354,7 @@ CanvasRenderer:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2111875649}
   m_CullTransparentMesh: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3287,6 +3490,8 @@ Light:
   m_UseColorTemperature: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
+=======
+>>>>>>> parent of bd610c9... Lesson_2_init
 =======
 >>>>>>> parent of bd610c9... Lesson_2_init
 =======
