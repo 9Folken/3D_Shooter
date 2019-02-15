@@ -1,16 +1,23 @@
 ﻿using UnityEngine;
+using Zenject;
 
 namespace Geekbrains
 {
 	public class FlashLightController : BaseController
 	{
-		private FlashLightModel _flashLight;
-		private FlashLightUiText _flashLightUi;
+		[Inject]
+
+		FlashLightModel _flashLight;
+		FlashLightUiText _flashLightUi;
+
+		//private FlashLightModel _flashLight;
+		//private FlashLightUiText _flashLightUi;
 
 		public FlashLightController()
 		{
-			_flashLight = MonoBehaviour.FindObjectOfType<FlashLightModel>();
-			_flashLightUi = MonoBehaviour.FindObjectOfType<FlashLightUiText>();
+			//_flashLight = MonoBehaviour.FindObjectOfType<FlashLightModel>();
+			//_flashLightUi = MonoBehaviour.FindObjectOfType<FlashLightUiText>();
+			Debug.Log(_flashLight);
 			Off();
 		}
 
